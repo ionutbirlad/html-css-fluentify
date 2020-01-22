@@ -101,3 +101,37 @@
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+.three .content .one{
+  width: 33.3333%;
+  height: 500px;
+  float: left;
+}
+
+.three .content .two{
+  width: 33.3333%;
+  height: 500px;
+  float: left;
+}
+
+.three .content .three{
+  width: 33.3333%;
+  height: 500px;
+  float: left;
+}
+
+.first, .second{
+  height: 50%;
+}
+
+.second{
+  text-align: center;
+}
+
+.fas{
+  font-size: 150px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
