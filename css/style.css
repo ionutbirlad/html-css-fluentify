@@ -9,3 +9,16 @@
   display: table;
   clear: both;
 }
+
+.content{
+  width: 80vw;
+  height: 300px;
+  max-width: 1200px;
+  margin: 0 auto;
+  background-color: red;
+  border: 1px solid black;
+}
+
+.container_fullwidth.one{
+  background-color: #0d325a;
+}
