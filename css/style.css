@@ -12,7 +12,7 @@
 }
 
 .content{
-  width: 90vw;
+  width: 80vw;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -66,7 +66,7 @@
   display: inline;
   position: relative;
   bottom: 50px;
-  left: 220px;
+  left: 140px;
   transform: translate(0,50%);
   padding: 0;
 }
@@ -94,7 +94,7 @@ button{
 }
 
 .bottom .left p{
-  font-size: 40px;
+  font-size: 38px;
   color: white;
   font-weight: 700;
   position: relative;
@@ -166,4 +166,8 @@ hr{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+
+#fixed_button{
+position: fixed;
 }
